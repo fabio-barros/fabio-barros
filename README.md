@@ -20,7 +20,7 @@
 
 
 #### Back End
-<img alt="NodeJS" width="100px" height="28px"  src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" width="100px" height="28px"  src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
+<img alt="NodeJS" width="100px" height="28px" align="right" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" width="100px" height="28px"  src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
 
 <img alt="Next JS" width="100px" height="28px"  src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img alt="GraphQL" width="100px" height="28px"  src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 
