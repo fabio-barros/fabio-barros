@@ -1,4 +1,4 @@
-<img src="https://gph.is/2REGs8a" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://giphy.com/embed/7J4P7cUur2DlErijp3" min-width="200px" max-width="400px" width="400px" align="right">
 
 ### Olá, me chamo Fábio Barros, sou estudante de Ciência da Computação e programador com foco no ecossistema JavaScript.
 
