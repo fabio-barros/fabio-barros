@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/pqpssk2bas84mfe0xur4l77u2)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/6HhLuT81SJgLqPvBHjn3Jx)
 
 ### Linguagens, Ferramentas, Frameworks e Bibliotecas:
 
