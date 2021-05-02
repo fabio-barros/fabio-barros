@@ -1,14 +1,21 @@
-### Olá, me chamo Fábio Barros e sou programador com foco no ecossistema JavaScript.
+
+
+<p align="left"> 
+### Olá, me chamo Fábio Barros, sou estudante de Ciência da Computação e programador com foco no ecossistema JavaScript.
+ </p>
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://fabio-barros.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiobarrosr/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=81997261308)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/6HhLuT81SJgLqPvBHjn3Jx)
 
 ### Linguagens, Ferramentas, Frameworks e Bibliotecas:
+
+#### Front End
+#### Back End
+#### Ferramentas
+####
+
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
