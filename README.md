@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/c1/16/12/c11612b4a8bc754d82e4025aab7dc11d.gif" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ### Olá, me chamo Fábio Barros, sou estudante de Ciência da Computação e programador com foco no ecossistema JavaScript.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiobarrosr/)
