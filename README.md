@@ -36,18 +36,7 @@
 [![HackerRank](/badges/hackerrank_badge.png)](https://www.hackerrank.com/whatupfabio)
 <a href="https://www.codewars.com/users/Xanduzinha63"><img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
 
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html&hide_title=true&hide_border=true&layout=compact&show_icons=true&langs_count=6&exclude_repo=comp426&theme=radical" /></a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabio-barros&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&layout=compact&theme=onedark)](https://github.com/fabio-barros)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border&layout=compact&theme=onedark)](https://github.com/fabio-barros)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabio-barros)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
