@@ -7,6 +7,7 @@
 
 [![HackerRank](/badges/hackerrank_badge.png)](https://www.hackerrank.com/whatupfabio)
 [![CodeWars](/badges/codewars_badge.png)](https://www.codewars.com/users/Xanduzinha63)
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 
 ### Linguagens, Ferramentas, Frameworks e Bibliotecas
