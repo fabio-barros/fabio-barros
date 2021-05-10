@@ -7,7 +7,7 @@
 
 [![HackerRank](/badges/hackerrank_badge.png)](https://www.hackerrank.com/whatupfabio)
 [![CodeWars](/badges/codewars_badge.png)](https://www.codewars.com/users/Xanduzinha63)
-<img src="codewars_badge.png" alt="drawing" width="200"/>
+<img src="badges/codewars_badge.png" alt="drawing" width="200"/>
 
 ### Linguagens, Ferramentas, Frameworks e Bibliotecas
 
