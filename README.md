@@ -58,5 +58,5 @@ Postgres
 
 📊 **Linguagens que programei esta semana**
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=">
 
