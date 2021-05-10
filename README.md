@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" min-width="200px" max-width="400px" width="400px" align="right">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=jolly&hide_border=true" align="right"/>
 <p> Olá, me chamo Fábio Barros, sou estudante de Ciência da Computação e programador com foco no ecossistema JavaScript. </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiobarrosr/)
@@ -7,7 +7,7 @@
 
 
 ### Linguagens, Ferramentas, Frameworks e Bibliotecas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=jolly&hide_border=true" align="right"/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=jolly&hide_border=true)](https://github.com/fabio-barros)
 
