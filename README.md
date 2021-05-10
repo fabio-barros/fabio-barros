@@ -38,7 +38,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border&layout=compact&theme=onedark)](https://github.com/fabio-barros)
 
-📊**O que programei esta semana**
+📊 **Linguagens que programei esta semana**
+
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=)](https://github.com/anuraghazra/github-readme-stats)
 
 
