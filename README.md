@@ -6,9 +6,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=81997261308)
 
 [![HackerRank](/badges/hackerrank_badge.png)](https://www.hackerrank.com/whatupfabio)
-[![CodeWars](<img src="badges/codewars_badge.png" alt="drawing" width="200"/>)](https://www.codewars.com/users/Xanduzinha63)
-
-<img src="badges/codewars_badge.png" alt="drawing" width="200"/>
+<img src="badges/codewars_badge.png" alt="CodeWars" width="144"/>
 
 ### Linguagens, Ferramentas, Frameworks e Bibliotecas
 
