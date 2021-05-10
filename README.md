@@ -34,7 +34,7 @@
 <a href="https://www.codewars.com/users/Xanduzinha63"><img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html&hide_title=true&hide_border=true&layout=compact&count_private=true&show_icons=true&langs_count=6&exclude_repo=comp426&theme=radical" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html&hide_title=true&hide_border=true&layout=compact&show_icons=true&langs_count=6&exclude_repo=comp426&theme=radical" /></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabio-barros&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
