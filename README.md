@@ -35,6 +35,7 @@
 <a href="https://www.codewars.com/users/Xanduzinha63"><img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&layout=compact&theme=onedark)](https://github.com/fabio-barros)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63)](https://github.com/anuraghazra/github-readme-stats)
 
 
