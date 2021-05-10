@@ -41,7 +41,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabio-barros&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&layout=compact$theme=onedark)](https://github.com/fabio-barros)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&layout=compact&theme=onedark)](https://github.com/fabio-barros)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabio-barros)](https://github.com/anuraghazra/github-readme-stats)
 
