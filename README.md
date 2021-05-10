@@ -8,7 +8,7 @@
 
 ### Linguagens, Ferramentas, Frameworks e Bibliotecas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=dracula&hide_title=true&hide_border=true)](https://github.com/fabio-barros)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=tokyonight&hide_title=true&hide_border=true)](https://github.com/fabio-barros)
 
 
 #### Front End
