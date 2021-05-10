@@ -8,6 +8,8 @@
 
 ### Linguagens, Ferramentas, Frameworks e Bibliotecas
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border&layout=compact&theme=onedark)](https://github.com/fabio-barros)
+
 
 #### Front End
 
@@ -35,8 +37,6 @@
 
 [![HackerRank](/badges/hackerrank_badge.png)](https://www.hackerrank.com/whatupfabio)
 <a href="https://www.codewars.com/users/Xanduzinha63"><img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border&layout=compact&theme=onedark)](https://github.com/fabio-barros)
 
 📊 **Linguagens que programei esta semana**
 
