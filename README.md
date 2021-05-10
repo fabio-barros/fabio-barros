@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiobarrosr/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=81997261308)
 
-[![HackerRank](/badges/hackerrank_badge.png)](https://www.hackerrank.com/whatupfabio)
-<img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/>
 
 ### Linguagens, Ferramentas, Frameworks e Bibliotecas
 
@@ -29,5 +27,10 @@
 #### Ferramentas
 <img alt="GitHub"   src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="WordPress"   src="https://img.shields.io/badge/WordPress-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
 <img alt="Docker"   src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Figma"   src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> 
+
+### Programming Communities
+
+[![HackerRank](/badges/hackerrank_badge.png)](https://www.hackerrank.com/whatupfabio)
+<img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/>
 
 
