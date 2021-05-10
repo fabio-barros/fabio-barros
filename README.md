@@ -22,7 +22,7 @@
 <!--- 
 Lang Stats
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&langs_count=6&theme=cobalt&layout=compact&hide_border=true)](https://github.com/fabio-barros" min-width="400" min-height="140"  align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&langs_count=6&theme=cobalt&layout=compact&hide_border=true)](https://github.com/fabio-barros" min-width="400"  align="right">
 
 <!--- 
 Node 
