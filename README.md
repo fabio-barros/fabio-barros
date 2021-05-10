@@ -38,7 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border&layout=compact&theme=onedark)](https://github.com/fabio-barros)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=📊 This Week I spent my time on)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=This Week I spent my time on)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
