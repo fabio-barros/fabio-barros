@@ -23,6 +23,8 @@
 <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <img alt="Firebase"   src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img alt="AWS"   src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="MongoDB"   src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Postgres"   src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
 
 #### Ferramentas
@@ -34,8 +36,7 @@
 [![HackerRank](/badges/hackerrank_badge.png)](https://www.hackerrank.com/whatupfabio)
 <a href="https://www.codewars.com/users/Xanduzinha63"><img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&layout=compact&theme=onedark)](https://github.com/fabio-barros)
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63)](https://github.com/fabio-barros)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border&layout=compact&theme=onedark)](https://github.com/fabio-barros)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabio-barros&custom_title=This week I spent my time on)](https://github.com/anuraghazra/github-readme-stats)
 
 
