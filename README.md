@@ -10,7 +10,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=jolly&hide_border=true)](https://github.com/fabio-barros)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=jolly&hide_border=true" align="right"/>
 
 #### Front End
 
