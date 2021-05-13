@@ -58,9 +58,13 @@ Postgres
 
 📊 **Linguagens que programei esta semana**
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
+```text
+Java         19 hrs 59 mins  ███████████████████████▓░   94.53 % 
+C#           29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Git Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+```
 <!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
 
