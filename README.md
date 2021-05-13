@@ -56,7 +56,6 @@ Postgres
 [![HackerRank](/badges/hackerrank_badge.png)](https://www.hackerrank.com/whatupfabio)
 <a href="https://www.codewars.com/users/Xanduzinha63"><img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
 
-📊 **Linguagens que programei esta semana**
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
