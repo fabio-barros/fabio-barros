@@ -58,20 +58,6 @@ Postgres
 
 📊 **Linguagens que programei esta semana**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 270 Contributions in the Year 2021
- > 
-> 📦 60.3 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 12 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
