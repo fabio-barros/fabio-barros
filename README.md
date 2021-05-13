@@ -90,7 +90,8 @@ VS Code                  1 hr 3 mins         █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
+<!--- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
+-->
 
 
 
