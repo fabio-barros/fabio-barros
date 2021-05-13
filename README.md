@@ -58,13 +58,37 @@ Postgres
 
 📊 **Linguagens que programei esta semana**
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 270 Contributions in the Year 2021
+ > 
+> 📦 60.3 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 12 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
 ```text
-Java         19 hrs 59 mins  ███████████████████████▓░   94.53 % 
-C#           29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Git Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+💬 Programming Languages: 
+Java                     19 hrs 59 mins      ███████████████████████░░   94.53% 
+C#                       29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
+Git Config               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6% 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+
+🔥 Editors: 
+IntelliJ                 20 hrs 5 mins       ███████████████████████░░   94.98% 
+VS Code                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.02%
+
 ```
+
+
 <!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
 
