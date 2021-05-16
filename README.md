@@ -81,3 +81,4 @@ VS Code                  4 hrs 3 mins        ███░░░░░░░░�
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabio-barros&repo=exchange)](https://github.com/fabio-barros/exchange) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabio-barros&repo=reastreador-eventos-naturais)](https://github.com/fabio-barros/reastreador-eventos-naturais)
