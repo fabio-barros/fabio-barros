@@ -20,7 +20,7 @@
 <!--- 
 Lang Stats
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css&hide_border=true&langs_count=6&layout=compact&theme=algolia&hide_border=true)](https://github.com/fabio-barros" width="400"  align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css,sass&hide_border=true&langs_count=6&layout=compact&theme=algolia&hide_border=true)](https://github.com/fabio-barros" width="400"  align="right">
 
 #### Back End
 <!--- 
