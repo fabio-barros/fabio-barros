@@ -78,5 +78,5 @@ VS Code                  16 hrs 12 mins      ███████████�
 <!--- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabio-barros&repo=spacex-graphql)](https://github.com/fabio-barros/spacex-graphql) <br /> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabio-barros&repo=natural-event-tracker)](https://github.com/fabio-barros/natural-event-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabio-barros&repo=spacex-graphql)](https://github.com/fabio-barros/spacex-graphql)<br />[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabio-barros&repo=natural-event-tracker)](https://github.com/fabio-barros/natural-event-tracker)
 
