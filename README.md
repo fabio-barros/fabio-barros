@@ -7,7 +7,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=81997261308)
 
 
-### Linguagens, Ferramentas, Frameworks e Bibliotecas
+### Languages, Frameworks, Libraries & Tools
 
 
 #### Front End
