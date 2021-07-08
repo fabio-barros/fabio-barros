@@ -69,7 +69,7 @@ Visual Studio            12 mins             ███████████�
 ```
 
 
- Last Updated on 07/07/2021
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
 <!--- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
 -->
