@@ -71,7 +71,7 @@ VS Code                  2 mins              ███████████�
 ```
 
 
- Last Updated on 17/02/2022 05:51:35 UTC
+ Last Updated on 17/02/2022 05:57:52 UTC
 <!--END_SECTION:waka-->
 <!--- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
 -->
