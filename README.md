@@ -25,17 +25,19 @@ Lang Stats
 Node 
 Express
 Next
+Nest
 GraphQL
 -->
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
  
 <!--- 
 Java 
 Spring
 C#
 .NET
+Ruby
 --> 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" align="center"/> <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" align="center"/>  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" align="center" /> <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" align="center" />
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" align="center"/> <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" align="center"/>  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" align="center" /> <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" align="center" /> <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" align="center" />
 
 <!--- 
 Firebase
@@ -46,18 +48,16 @@ Postgres
 
 <img alt="Firebase"   src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img alt="AWS"   src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="MongoDB"   src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Postgres"   src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
 
-#### Low Level
-<img alt="Rust"   src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img alt="C"   src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="C++"   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+#### Low Level &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Functional
+<img alt="Rust"   src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" align="center" />&emsp;&emsp;&emsp;<img alt="Elixir"   src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" align="center" /> <img alt="Haskell"   src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" align="center" />
 
-#### Low Level
-<img alt="Elixir"   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="Haskell"   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="Scala"   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="Clojure"   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="C"   src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" align="center" />&ensp;&emsp;&emsp;&emsp;&emsp; <img alt="Scala"   src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" align="center" /> <img alt="Clojure"   src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure" align="center" />
+
+<img alt="C++"   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="center" /> &emsp;&emsp;&emsp;&emsp;
 
 
-#### Ferramentas
-<img alt="GitHub"   src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="WordPress"   src="https://img.shields.io/badge/WordPress-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
+#### Tools
+<img alt="GitHub"   src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Git"   src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Docker"   src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Figma"   src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> 
 
 ### Programming Communities
