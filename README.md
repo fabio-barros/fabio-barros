@@ -51,6 +51,10 @@ Postgres
 <img alt="C"   src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++"   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
+#### Low Level
+<img alt="Elixir"   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="Haskell"   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Scala"   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="Clojure"   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
 
 #### Ferramentas
 <img alt="GitHub"   src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="WordPress"   src="https://img.shields.io/badge/WordPress-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
