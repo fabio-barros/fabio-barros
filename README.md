@@ -56,8 +56,6 @@ Postgres
 <a href="https://www.codewars.com/users/Xanduzinha63"><img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2043%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -70,7 +68,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/05/2022 06:09:32 UTC
+ Last Updated on 03/05/2022 05:15:32 UTC
 <!--END_SECTION:waka-->
 <!--- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
 -->
