@@ -66,24 +66,25 @@ Postgres
 <a href="https://www.codewars.com/users/Xanduzinha63"><img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2015%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Haskell                  2 mins              █████████░░░░░░░░░░░░░░░░   36.94% 
-Python                   1 min               █████░░░░░░░░░░░░░░░░░░░░   22.82% 
-JavaScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   22.79% 
-JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.45%
+Haskell                  5 hrs 9 mins        ████████████████████████░   97.23% 
+Rust                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+VS Code                  5 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 15/07/2022 05:37:40 UTC
+ Last Updated on 15/07/2022 05:59:12 UTC
 <!--END_SECTION:waka-->
 <!--- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
 -->
