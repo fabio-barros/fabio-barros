@@ -84,7 +84,7 @@ VS Code                  2 hrs 24 mins       ███████████�
 ```
 
 
- Last Updated on 28/08/2022 06:00:41 UTC
+ Last Updated on 29/08/2022 06:03:03 UTC
 <!--END_SECTION:waka-->
 <!--- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
 -->
