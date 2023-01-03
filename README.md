@@ -68,19 +68,8 @@ Postgres
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2027%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 02/01/2023 06:16:11 UTC
+ Last Updated on 03/01/2023 05:08:38 UTC
 <!--END_SECTION:waka-->
 <!--- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
 -->
