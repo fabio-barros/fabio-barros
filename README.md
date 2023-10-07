@@ -74,15 +74,14 @@ Postgres
 
 ```text
 💬 Programming Languages: 
-C#                       8 mins              ████████████████████░░░░░   78.33 % 
-Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/10/2023 05:06:42 UTC
+ Last Updated on 07/10/2023 05:20:38 UTC
 <!--END_SECTION:waka-->
 <!--- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
 -->
