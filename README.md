@@ -69,21 +69,22 @@ Postgres
 <a href="https://www.codewars.com/users/Xanduzinha63"><img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2014%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    32 mins             ██████████████████████░░░   88.63 % 
-TypeScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Markdown                 29 mins             █████████████░░░░░░░░░░░░   51.61 % 
+Other                    23 mins             ██████████░░░░░░░░░░░░░░░   40.98 % 
+TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  56 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/02/2024 05:08:08 UTC
+ Last Updated on 07/02/2024 05:23:23 UTC
 <!--END_SECTION:waka-->
 <!--- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
 -->
