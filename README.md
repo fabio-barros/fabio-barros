@@ -18,7 +18,9 @@
 <!--- 
 Lang Stats
 -->
+<!--- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css,dockerfile,scss,shell&hide_border=true&langs_count=10&layout=compact&theme=algolia&hide_border=true)](https://github.com/fabio-barros" width="400" >
+-->
 <!--
 #### Back End
 <!--- 
