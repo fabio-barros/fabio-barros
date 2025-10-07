@@ -15,30 +15,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,kubernetes,docker,python,angular,react,apollo,graphql&perline=5)](https://skillicons.dev)
 
+ ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63\&layout=compact) 
 
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2042%20mins-blue)
-
-**This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-CSV                      3 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
-```
-
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabio-barros&" alt="fabio-barros" /></p> -->
-
-<!--END_SECTION:waka-->
-<!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63\&layout=compact) 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabio-barros&show_icons=true&locale=en&layout=compact" alt="fabio-barros" /></p> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabio-barros&repo=spacex-graphql)](https://github.com/fabio-barros/spacex-graphql)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabio-barros&repo=natural-event-tracker)](https://github.com/fabio-barros/natural-event-tracker) 
- -->
