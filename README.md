@@ -15,5 +15,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,kubernetes,docker,python,angular,react,apollo,graphql&perline=5)](https://skillicons.dev)
 
- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63\&layout=compact) 
 
